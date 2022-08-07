@@ -1,0 +1,15 @@
+.header {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+}
+.title {
+    width: 80%;
+    margin-left: 10px;
+}
+.scoreSection {
+    float: right;
+}

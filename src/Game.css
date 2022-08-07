@@ -1,0 +1,26 @@
+.cards {
+    height: fit-content;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.card {
+    margin: 10px;
+}
+img {
+    width: 250px;
+    height: 250px;
+    display: block;
+    object-fit: cover;
+    margin: 0;
+    border: 10px solid lightblue;
+    border-radius: 5%;
+}
+span {
+    color: black;
+    font-size: 20px;
+    margin-top: 20px;
+}
